@@ -1,0 +1,4 @@
+# Keep real names out of git
+names.txt
+__pycache__/
+.venv/

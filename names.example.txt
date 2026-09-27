@@ -1,0 +1,6 @@
+# Copy this file to names.txt and put one name per line.
+# names.txt stays on your computer (it's in .gitignore).
+# Lines starting with # are ignored.
+Siân
+Rhys
+Aoife
